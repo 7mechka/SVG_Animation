@@ -14,7 +14,7 @@
 }
 
 #Line-1 {
-    animation-name: "line-1";
+    animation-name: line-1;
     animation-duration: 1.4s;
     animation-iteration-count: infinite;
     animation-direction: alternate;
@@ -29,7 +29,7 @@
 }
 
 #Line-2 {
-    animation-name: "line-2";
+    animation-name: line-2;
     animation-duration: .8s;
     animation-iteration-count: infinite;
     animation-direction: alternate;
@@ -44,7 +44,7 @@
 }
 
 #Line-3 {
-    animation-name: "line-3";
+    animation-name: line-3;
     animation-duration: 1.3s;
     animation-iteration-count: infinite;
     animation-direction: alternate;
@@ -59,7 +59,7 @@
 }
 
 #Line-4 {
-    animation-name: "line-4";
+    animation-name: line-4;
     animation-duration: 2s;
     animation-iteration-count: infinite;
     animation-direction: alternate;
@@ -74,7 +74,7 @@
 }
 
 #Line-5 {
-    animation-name: "line-5";
+    animation-name: line-5;
     animation-duration: 3s;
     animation-iteration-count: infinite;
     animation-direction: alternate;
@@ -88,7 +88,7 @@
 }
 
 #Line-6 {
-    animation-name: "line-6";
+    animation-name: line-6;
     animation-duration: .7s;
     animation-iteration-count: infinite;
     animation-direction: alternate;
@@ -103,7 +103,7 @@
 }
 
 #Line-7 {
-    animation-name: "line-7";
+    animation-name: line-7;
     animation-duration: 2.3s;
     animation-iteration-count: infinite;
     animation-direction: alternate;
@@ -118,7 +118,7 @@
 }
 
 #Line-8 {
-    animation-name: "line-8";
+    animation-name: line-8;
     animation-duration: .8s;
     animation-iteration-count: infinite;
     animation-direction: alternate;
